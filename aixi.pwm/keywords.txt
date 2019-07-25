@@ -1,0 +1,12 @@
+#class (KEYWORD1)
+PWM	KEYWORD1
+PWM	KEYWORD3
+ 
+#function and method (KEYWORD2)
+servoWrite	KEYWORD2
+disattach	KEYWORD2
+ 
+ 
+#constant (LITERAL1)
+#none
+
