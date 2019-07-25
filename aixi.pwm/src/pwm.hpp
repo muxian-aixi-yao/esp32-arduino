@@ -7,7 +7,7 @@
 class PWM
 {
 private:
-    byte pin;
+    byte PIN;
 public:
     PWM(byte pin);//构造函数
     ~PWM();//析构函数
