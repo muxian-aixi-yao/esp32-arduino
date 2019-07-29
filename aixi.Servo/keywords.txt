@@ -1,9 +1,9 @@
 #class (KEYWORD1)
-PWM	KEYWORD1
-PWM	KEYWORD3
+SERVO	KEYWORD1
+SERVO	KEYWORD3
  
 #function and method (KEYWORD2)
-servoWrite	KEYWORD2
+Write	KEYWORD2
 disattach	KEYWORD2
  
  
